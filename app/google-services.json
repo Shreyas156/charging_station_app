@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "750834591469",
+    "firebase_url": "https://chargebuddy-6cc40-default-rtdb.firebaseio.com",
+    "project_id": "chargebuddy-6cc40",
+    "storage_bucket": "chargebuddy-6cc40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750834591469:android:c96d15194e00932de38ee4",
+        "android_client_info": {
+          "package_name": "com.example.charging_station_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaYTfHQ-e1IY-Ik2okhVrgNsdco7RyYYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
